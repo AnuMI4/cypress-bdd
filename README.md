@@ -1,5 +1,5 @@
 # cypress-bdd
-A small POC showing implementation of BDD with Cypress tests using cypress-cucumber-preprocessor.
+A small POC showing implementation of BDD with Cypress tests using cypress-cucumber-preprocessor plugin.
 
 Tests can be run with the following command: -
 ```
